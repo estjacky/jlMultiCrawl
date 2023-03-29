@@ -2,7 +2,7 @@
 import openai
 
 
-openai.api_key = "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"
+openai.api_key ="YOURKEYHERE" 
 
 try:
 #    print(openai.Model.list())
